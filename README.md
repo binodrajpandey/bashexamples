@@ -1,3 +1,3 @@
 # bash basics
 
-Please visit wiki to grow your knowledge on bash commands.
+Please visit wiki of this repository to grow your knowledge on bash commands.
