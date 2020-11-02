@@ -5,7 +5,8 @@ Please visit wiki of this repository to grow your knowledge on bash commands.
 1. [grep](https://github.com/binodrajpandey/bashexamples/wiki/Grep)
 2. [sed](https://github.com/binodrajpandey/bashexamples/wiki/sed)
 3. [jq](https://github.com/binodrajpandey/bashexamples/wiki/jq)
-4. [I/O redirect](https://github.com/binodrajpandey/bashexamples/wiki/I-O-Redirect)
+4. [variable](https://github.com/binodrajpandey/bashexamples/wiki/Variable)
+5. [I/O redirect](https://github.com/binodrajpandey/bashexamples/wiki/I-O-Redirect)
 4. curl
 5. wget
 6. ssh
