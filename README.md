@@ -6,6 +6,7 @@ Please visit wiki of this repository to grow your knowledge on bash commands.
 2. [sed](https://github.com/binodrajpandey/bashexamples/wiki/sed)
 3. [jq](https://github.com/binodrajpandey/bashexamples/wiki/jq)
 4. [variable](https://github.com/binodrajpandey/bashexamples/wiki/Variable)
+5. [operator](https://www.tutorialspoint.com/unix/unix-basic-operators.htm)
 5. [I/O redirect](https://github.com/binodrajpandey/bashexamples/wiki/IO-Redirect)
 4. curl
 5. wget
@@ -22,9 +23,7 @@ Please visit wiki of this repository to grow your knowledge on bash commands.
 15. awk
 16. keyboard shortcut
 17. configure bash
-16. variable 
 17. variable testing
-18. operator
 19. cut
 20. cat
 21. listing
