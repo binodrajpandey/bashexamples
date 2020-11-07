@@ -7,7 +7,8 @@ Please visit wiki of this repository to grow your knowledge on bash commands.
 3. [jq](https://github.com/binodrajpandey/bashexamples/wiki/jq)
 4. [variable](https://github.com/binodrajpandey/bashexamples/wiki/Variable)
 5. [operator](https://www.tutorialspoint.com/unix/unix-basic-operators.htm)
-5. [I/O redirect](https://github.com/binodrajpandey/bashexamples/wiki/IO-Redirect)
+6. [I/O redirect](https://github.com/binodrajpandey/bashexamples/wiki/IO-Redirect)
+7. [md5](https://github.com/binodrajpandey/bashexamples/wiki/md5)
 4. curl
 5. wget
 6. ssh
