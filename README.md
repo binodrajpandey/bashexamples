@@ -11,7 +11,7 @@ Please visit wiki of this repository to grow your knowledge on bash commands.
 7. [md5](https://github.com/binodrajpandey/bashexamples/wiki/md5)
 4. curl
 5. wget
-6. [ssh](https://github.com/binodrajpandey/bashexamples/wiki/SSH)
+6. [ssh](https://github.com/binodrajpandey/bashexamples/wiki/SSH-&-SFTP)
 7. vim
 7. file reading
 8. file writing
